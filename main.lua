@@ -44,7 +44,7 @@ function love.load()
 
     player1Score = 0
     player2Score = 0
-    winScore = 2
+    winScore = 5
 
     servingPlayer = 1
 
